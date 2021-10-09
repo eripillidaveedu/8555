@@ -1,0 +1,14 @@
+git init 
+git status 
+git config --golobal user.name "daveedu"
+git config --global user.email "daveedu104@gmail/com"
+ls
+ls -la
+-----------------------------------------------
+touch file1
+git status
+git add file1
+git status
+git commit -m "label"file1
+git log
+git show commitid
