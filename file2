@@ -1,4 +1,4 @@
-git init 
+cvgvhgit init 
 git status 
 git config --golobal user.name "daveedu"
 git config --global user.email "daveedu104@gmail/com"
@@ -11,4 +11,9 @@ git add file1
 git status
 git commit -m "label"file1
 git log
-git show commitid
+git show commi
+tid
+ daveedu nani ra
+raju a
+apparao
+nani
